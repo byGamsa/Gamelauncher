@@ -1,0 +1,15 @@
+D:\Desktop\Programming\GameLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.csprojAssemblyReference.cache
+D:\Desktop\Programming\GameLauncher\GameLauncher\GameLauncher\obj\Debug\MainWindow.g.cs
+D:\Desktop\Programming\GameLauncher\GameLauncher\GameLauncher\obj\Debug\App.g.cs
+D:\Desktop\Programming\GameLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher_MarkupCompile.cache
+D:\Desktop\Programming\GameLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher_MarkupCompile.lref
+D:\Desktop\Programming\GameLauncher\GameLauncher\GameLauncher\bin\Debug\GameLauncher.exe.config
+D:\Desktop\Programming\GameLauncher\GameLauncher\GameLauncher\bin\Debug\GameLauncher.exe
+D:\Desktop\Programming\GameLauncher\GameLauncher\GameLauncher\bin\Debug\GameLauncher.pdb
+D:\Desktop\Programming\GameLauncher\GameLauncher\GameLauncher\obj\Debug\MainWindow.baml
+D:\Desktop\Programming\GameLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.g.resources
+D:\Desktop\Programming\GameLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.Properties.Resources.resources
+D:\Desktop\Programming\GameLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.csproj.GenerateResource.cache
+D:\Desktop\Programming\GameLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.csproj.CoreCompileInputs.cache
+D:\Desktop\Programming\GameLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.exe
+D:\Desktop\Programming\GameLauncher\GameLauncher\GameLauncher\obj\Debug\GameLauncher.pdb
